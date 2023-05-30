@@ -1,5 +1,5 @@
 ---
-title: "AnimeEZ"
+title: "Hyaku"
 description: "A simple to use anime/manga website without any ads."
 lead: A simple to use anime/manga website without any ads."
 date: 2023-05-30T14:19:06+00:00
