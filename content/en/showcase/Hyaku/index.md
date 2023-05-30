@@ -1,6 +1,3 @@
-2023-05-30T14:19:06+00:00
-
-
 ---
 title: "AnimeEZ"
 description: "A simple to use anime/manga website without any ads."
